@@ -1,0 +1,19 @@
+{
+  "name": "tedi",
+  "version": "0.0.1",
+  "description": "text-2-diagram",
+  "engines": {
+    "node": "^8.11"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:stephenfrancis/"
+  },
+  "author": "stephen.d.francis@gmail.com",
+  "dependencies": {
+    "docusaurus-init": "^1.0.1"
+  },
+  "devDependencies": {
+  }
+}
